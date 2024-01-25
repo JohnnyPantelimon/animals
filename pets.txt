@@ -2,3 +2,5 @@ Baron
 Cora
 Blacky
 Kira
+Toto
+Bujie
